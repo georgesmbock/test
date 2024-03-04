@@ -1,0 +1,31 @@
+body {
+    background-image: url("/assets/images/kitchen-1687121_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+}
+
+section {
+    width: 680px;
+    background-color: rgba(255,255,255,0.8);
+    margin: auto;
+}
+
+section ul li {
+    list-style-type: upper-alpha;
+    font-style: italic;
+    display: inline;
+    margin: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+ul {
+    background-color: blue;
+}
+
+
+article h2 {
+    border: 1px solid black;
+    text-align: center;
+}
